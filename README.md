@@ -14,7 +14,7 @@ Error Correction: Custom keyword scanning to detect failures (like DNS issues or
 Session Logging: Every launch and audit attempt is timestamped in titan_history.log.
 
 ## 🖥 The Tools
-### 1. T.I.T.A.N. GUI (TITAN-GUI.py)
+### 1. T.I.T.A.N. GUI (TITAN.py)
 The primary workstation interface for data entry and mass importing.
 
 Ingestion: Add targets and credentials manually or import from Mimikatz/Secret dumps.
